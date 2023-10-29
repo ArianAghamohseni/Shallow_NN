@@ -1,4 +1,4 @@
-**Shallow NN :**
+# Shallow NN :
 Neural Network for Binary Classification
 
 **Description:**
